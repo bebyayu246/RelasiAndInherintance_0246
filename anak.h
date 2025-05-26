@@ -8,4 +8,6 @@ class anak {
         {
             cout << "Anak \"" << nama << "\" ada\n ";
         }
-        
+        ~anak()
+      
+};
